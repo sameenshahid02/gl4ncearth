@@ -93,6 +93,7 @@ The application constructs a WMS `GetMap` request using:
 * MODIS Terra Corrected Reflectance True Color imagery
 * EPSG:4326 geographic coordinate system
 
+```text
 ## Installation
 
 ### 1. Clone the repository
