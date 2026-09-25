@@ -93,20 +93,24 @@ The application constructs a WMS `GetMap` request using:
 * MODIS Terra Corrected Reflectance True Color imagery
 * EPSG:4326 geographic coordinate system
 
+```text
 ## Installation
 
-1. Clone the repository
+### 1. Clone the repository
 
- git clone <https://github.com/sameenshahid02/gl4ncearth.git>
- cd gl4ncearth
+```bash
+git clone https://github.com/sameenshahid02/gl4ncearth.git
+cd gl4ncearth
 
-2. Install dependencies
+### 2. Install dependencies
 
- pip install requests pillow
+```bash
+pip install requests pillow
 
-3. Run the application
+### 3. Run the application
 
- python earth_observer.py
+```bash
+python earth_observer.py
 
 ## Good to Know
 
