@@ -95,14 +95,20 @@ The application constructs a WMS `GetMap` request using:
 
 ## Installation
 
-1. Clone the repository
-git clone <repository-url>
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sameenshahid02/gl4ncearth.git
 cd gl4ncearth
 
-2. Install dependencies
+### 2. Install dependencies
+
+```bash
 pip install requests pillow
 
-3. Run the application
+### 3. Run the application
+
+```bash
 python earth_observer.py
 
 ## Good to Know
